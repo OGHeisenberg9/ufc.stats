@@ -23,8 +23,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/aalma/PycharmProjects/pythonProject",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687047747597</updated>
       <workItem from="1687047750071" duration="47000" />
+      <workItem from="1687048054804" duration="165000" />
     </task>
     <servers />
   </component>
